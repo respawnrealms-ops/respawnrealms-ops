@@ -1,12 +1,19 @@
-
+<!--
+  GitHub Profile README
+  Name: Mihir Mewada
+  Username: respawnrealms-ops
+-->
 
 <div align="center">
 
-Hi, I'm Mihir. 👋
+Hey, I'm Mihir Mewada 👋
 
-Senior Software Engineer • Distributed Systems • Cloud • AI/ML
+App Builder • AI Explorer • Full-Stack Developer • Product Creator
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=4F8CC9&center=true&vCenter=true&width=900&lines=Building+scalable+distributed+systems;Engineering+cloud-native+platforms;Creating+production-ready+GenAI+applications;Java+%7C+Python+%7C+AWS+%7C+Kafka+%7C+Databricks" alt="Typing animation" />
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+premium+Android+%26+Flutter+apps;Creating+AI-powered+products+and+automation;Designing+useful+systems+from+idea+to+launch;Mobile+Apps+%7C+Web+%7C+AI+%7C+ESP32"
+alt="Typing animation"
+/>
 
 <br/>
 
@@ -14,125 +21,241 @@ Senior Software Engineer • Distributed Systems • Cloud • AI/ML
 
 </div>
 
-👨‍💻 About Me
+⚡ About Me
 
-I am a Senior Software Engineer with 6+ years of experience designing and delivering scalable distributed systems, cloud-native applications, enterprise platforms, data pipelines, and production-ready AI solutions.
+I turn ideas into working products—from mobile apps and business platforms to AI tools and embedded devices.
 
-🔭 Building intelligent enterprise applications using LLMs, RAG, LangChain, MLflow, and vector search
+📱 Building premium Android and Flutter applications
 
-☁️ Designing resilient cloud platforms with AWS, Kubernetes, Kafka, DynamoDB, Redis, and microservices
+🤖 Experimenting with AI agents, LLMs, RAG, automation, and machine learning
 
-📊 Engineering large-scale data solutions with Databricks, Apache Spark, Delta Lake, and Python
+🧩 Creating complete products with thoughtful UI, backend services, analytics, and deployment
 
-🧠 Interested in Agentic AI, LLMOps, MLOps, developer productivity, and distributed architecture
+🏢 Developing a feature-rich Recruitment CRM with automation and AI-powered insights
 
-🏆 Two-time internal hackathon winner for AI-driven engineering and logistics automation
+⌚ Building an ESP32 fitness watch with sensors, BLE, custom UI, and PCB planning
 
-📍 Based in Austin, USA
+🚀 Focused on publishing useful products that people genuinely enjoy using
 
-🤝 Open to collaborating on high-impact backend, cloud, data, and AI projects
+🎨 Obsessed with clean, animated, premium-looking interfaces
 
-🧰 Technology Stack
+🛠️ Tech Stack
 
-Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,c,sql" alt="Programming languages" />
-</p>
-
-Backend & APIs
+Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio,firebase" alt="Mobile development technologies" />
 </p>
 
 
 
-Cloud, DevOps & Platform Engineering
+Web & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,git,github,maven,linux" alt="Cloud and DevOps technologies" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,python,fastapi,postgres,mysql,mongodb" alt="Web and backend technologies" />
 </p>
 
 
 
-Data Engineering, AI & Machine Learning
+AI, Automation & Data
 
 
 
-Databases, Caching & Observability
+Hardware & Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,grafana,prometheus" alt="Databases and observability" />
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,docker,git,github,figma,vscode,linux" alt="Hardware and development tools" />
 </p>
 
 
 
-🚀 What I Build
+🚀 Projects I'm Building
 
-Distributed Systems      ███████████████████░  95%
-Backend Engineering      ███████████████████░  95%
-Cloud Architecture       ██████████████████░░  90%
-Generative AI & RAG      ██████████████████░░  90%
-Data Engineering         █████████████████░░░  85%
-DevOps & Observability   ████████████████░░░░  80%
-Frontend Engineering     ████████████░░░░░░░░  60%
+<table>
+<tr>
+<td width="50%" valign="top">
 
-High-throughput Java and Spring Boot microservices
+🌟 Lumen
 
-Event-driven applications using Kafka, SQS, SNS, and asynchronous processing
+A premium life-planning app combining:
 
-Secure enterprise RAG and semantic-search systems
+Day planning and task management
 
-LLM evaluation, prompt versioning, monitoring, and deployment workflows
+Budget and expense tracking
 
-Spark and Databricks pipelines processing large enterprise datasets
+Bucket-list and Dream Jar features
 
-Self-service automation platforms and internal developer tools
+Goals, focus tools, alarms, and notifications
 
-Reliable systems with observability, tracing, alerting, and automated recovery
+Daily and weekly analytics
 
-📌 Featured Projects
+Multiple themes and polished animations
 
-🤖 Autonomous Local AI Agent
+Focus: Flutter, Android, local storage, notifications, analytics, premium UI
 
-A local AI assistant that understands voice and text commands and autonomously performs OS-level operations, file management, application workflows, and multi-step tasks.
+</td>
+<td width="50%" valign="top">
 
-Technologies: Python, LLMs, Agentic AI, tool calling, workflow orchestration, prompt engineering
+🏃 StrideX
+
+A running and walking fitness application with:
+
+Outdoor GPS tracking
+
+Indoor step counting
+
+Distance, calories, and activity metrics
+
+Goals and progress analytics
+
+OpenStreetMap-based route visualization
+
+Dark and light UI
+
+Stack: Flutter, Riverpod, GPS, sensors, maps, analytics
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+♟️ Unreal Chess
+
+A multiplayer chess experience with:
+
+Multiple chess variants
+
+Online multiplayer and AI opponents
+
+Friends, scores, replays, and analytics
+
+Quick join and private rooms
+
+Spectator mode
+
+Firebase-powered game synchronization
+
+Stack: Android, Firebase Realtime Database, authentication, game logic
+
+</td>
+<td width="50%" valign="top">
+
+🏢 Recruitment CRM
+
+A complete recruitment and operations platform featuring:
+
+Candidates, recruiters, managers, and interviews
+
+Application and placement tracking
+
+Performance analytics and credit systems
+
+Payroll, surveys, permissions, and state-level isolation
+
+AI question answering with RAG
+
+Predictions, anomaly detection, and automation
+
+Focus: Full-stack development, dashboards, AI, ML, reporting, workflow automation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+⌚ ESP32 Fitness Watch
+
+A compact custom smartwatch project using:
+
+XIAO ESP32-C3
+
+OLED and round TFT displays
+
+Heart-rate, motion, weather, and air-quality sensors
+
+BLE connectivity
+
+Battery monitoring and low-power behavior
+
+Custom PCB planning in EasyEDA
+
+Stack: C++, ESP32, Arduino, BLE, I²C, embedded UI, PCB design
+
+</td>
+<td width="50%" valign="top">
+
+🤖 Local AI Agent
+
+An AI-powered desktop assistant designed to:
+
+Understand voice and text commands
+
+Manage files and applications
+
+Perform multi-step workflows
+
+Create websites and applications
+
+Connect with coding and automation agents
+
+Execute useful OS-level actions
+
+Stack: Python, LLM APIs, agent workflows, ElevenLabs, automation
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 
 
-🔎 Enterprise Knowledge Assistant
+</div>
 
-A secure Retrieval-Augmented Generation platform for searching engineering documentation, runbooks, APIs, and enterprise knowledge using natural-language queries.
+🧠 What I Enjoy Building
 
-Technologies: Python, LangChain, RAG, vector embeddings, MLflow, Databricks, Delta Lake, OpenAI API
-
-
-
-⚡ Distributed Event Processing Platform
-
-A scalable event-driven backend platform designed for high-volume workflows, reliable asynchronous processing, distributed locking, caching, and real-time operational visibility.
-
-Technologies: Java, Spring Boot, Kafka, DynamoDB, Redis, AWS, Docker, Kubernetes
-
-
+Premium Mobile Apps       ███████████████████░  95%
+AI-Powered Products       ██████████████████░░  90%
+Product UI & Animation    ██████████████████░░  90%
+Business Automation       █████████████████░░░  85%
+Full-Stack Platforms      █████████████████░░░  85%
+Embedded / ESP32 Builds   ███████████████░░░░░  75%
 
 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=respawnrealms-ops &show_icons=true&rank_icon=github&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub statistics" />
-<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=respawnrealms-ops&show_icons=true&rank_icon=github&hide_border=true&theme=transparent&include_all_commits=true&count_private=true"
+alt="Mihir Mewada's GitHub statistics"
+/>
+
+<img
+width="49%"
+src="https://streak-stats.demolab.com?user=respawnrealms-ops&hide_border=true&theme=transparent"
+alt="Mihir Mewada's GitHub contribution streak"
+/>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=respawnrealms-ops &layout=compact&hide_border=true&theme=transparent&langs_count=10" alt="Most used languages" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=transparent&utcOffset=-5" alt="Productive coding time" />
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=respawnrealms-ops&layout=compact&hide_border=true&theme=transparent&langs_count=10"
+alt="Mihir Mewada's most-used programming languages"
+/>
+
+<img
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=respawnrealms-ops&theme=transparent"
+alt="Mihir Mewada's GitHub profile summary"
+/>
 
 </div>
 
-GitHub statistics only reflect public repositories unless the selected statistics service can access additional contribution data.
+Some cards can take a few minutes to refresh after the README is updated. Private repositories are not always included by third-party statistics services.
 
 📈 Contribution Activity
 
@@ -155,56 +278,44 @@ GitHub statistics only reflect public repositories unless the selected statistic
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/respawnrealms-ops/respawnrealms-ops/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/respawnrealms-ops/respawnrealms-ops/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Mihir Mewada's contribution snake"
+    src="https://raw.githubusercontent.com/respawnrealms-ops/respawnrealms-ops/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 </div>
 
-💼 Engineering Highlights
-
-Engineered scalable AI data pipelines processing more than 28 TB of enterprise data
-
-Reduced AI model deployment and validation effort by approximately 46 engineering hours per month
-
-Built backend systems processing more than 2 million business events per month
-
-Reduced incident resolution time by 80% through centralized real-time operational tooling
-
-Saved more than 450 engineering hours annually using AI-powered support automation
-
-Improved service latency from 1,200 ms to 840 ms
-
-Increased automated test coverage to more than 90%
-
-Reduced Mean Time to Detection by 60%
-
-Mentored engineers through design discussions, code reviews, and cloud best practices
-
-🧠 Current Focus
-
-learning:
-  - Advanced distributed systems
-  - Agentic AI architecture
-  - LLM evaluation and observability
-  - Production RAG optimization
-  - Cloud cost and performance engineering
+🎯 Current Mission
 
 building:
-  - Intelligent developer tools
-  - Reliable AI platforms
-  - Scalable data pipelines
-  - Autonomous workflow agents
+  - Premium Android and Flutter applications
+  - AI-powered business tools
+  - Recruitment and productivity platforms
+  - Smart embedded devices
 
-open_to:
-  - Senior Software Engineer roles
-  - Staff Software Engineer roles
-  - Backend and Platform Engineering
-  - Cloud and Distributed Systems
-  - AI/ML Platform Engineering
+exploring:
+  - Agentic AI
+  - RAG and intelligent search
+  - Machine learning for real products
+  - Bluetooth Low Energy
+  - Better product design and animation
 
-🤝 Connect With Me
+goal:
+  - Build products that look premium
+  - Solve useful real-world problems
+  - Publish more high-quality applications
+  - Keep learning by creating
+
+🤝 Let's Connect
 
 <div align="center">
 
@@ -214,8 +325,8 @@ open_to:
 
 <div align="center">
 
-“Build systems that scale. Build intelligence that helps.”
+Build it. Improve it. Ship it. 🚀
 
-⭐ From Mihir.
+⭐ From Mihir Mewada
 
 </div>
