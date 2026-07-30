@@ -1,275 +1,126 @@
-<!--
-  GitHub Profile README
-  Name: Mihir Mewada
-  Username: respawnrealms-ops
--->
-
 <div align="center">
 
-Hey, I'm Mihir Mewada 👋
+Hi, I'm Mihir Mewada 👋
 
-App Builder • AI Explorer • Full-Stack Developer • Product Creator
+App Developer • AI Builder • Flutter • Android • Web • ESP32 Projects
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+premium+Android+%26+Flutter+apps;Creating+AI-powered+products+and+automation;Designing+useful+systems+from+idea+to+launch;Mobile+Apps+%7C+Web+%7C+AI+%7C+ESP32"
-alt="Typing animation"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=Building+cool+apps+and+AI+projects;Flutter+%7C+Android+%7C+Python+%7C+Firebase;Web+Apps+%7C+Automation+%7C+ESP32+Builds;Always+learning%2C+always+building" alt="Typing animation" />
 
-<br/>
+<br/><br/>
 
 
 
 </div>
 
-⚡ About Me
+🚀 About Me
 
-I turn ideas into working products—from mobile apps and business platforms to AI tools and embedded devices.
+I am Mihir Mewada, a builder who loves creating apps, websites, AI tools, and embedded projects.I enjoy working on ideas that feel practical, modern, and visually cool.
 
-📱 Building premium Android and Flutter applications
+🔭 Currently building apps, AI tools, and smart automation projects
 
-🤖 Experimenting with AI agents, LLMs, RAG, automation, and machine learning
+📱 Interested in Flutter, Android, web apps, and clean UI/UX
 
-🧩 Creating complete products with thoughtful UI, backend services, analytics, and deployment
+🤖 Exploring AI agents, ChatGPT APIs, automation, and productivity tools
 
-🏢 Developing a feature-rich Recruitment CRM with automation and AI-powered insights
+🧠 I like combining design + code + AI
 
-⌚ Building an ESP32 fitness watch with sensors, BLE, custom UI, and PCB planning
+🛠️ Also building ESP32 / fitness watch / hardware side projects
 
-🚀 Focused on publishing useful products that people genuinely enjoy using
+🌱 Always learning and trying to ship better products
 
-🎨 Obsessed with clean, animated, premium-looking interfaces
+🧰 Tech Stack
 
-🛠️ Tech Stack
-
-Mobile Development
+Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio,firebase" alt="Mobile development technologies" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,python,js,ts,html,css,react,firebase,mysql" alt="Tech stack" />
 </p>
 
-
-
-Web & Backend
+Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,python,fastapi,postgres,mysql,mongodb" alt="Web and backend technologies" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,figma,linux,aws,docker,nodejs,fastapi" alt="Tools and platforms" />
 </p>
 
+What I Work With
 
+Mobile: Flutter, Android, Firebase, notifications, UI/UX
 
-AI, Automation & Data
+Web: React, JavaScript, TypeScript, HTML, CSS, API integrations
 
+AI: OpenAI APIs, LLM workflows, prompt engineering, automation
 
+Backend: Python, Java, FastAPI, Node basics, database handling
 
-Hardware & Developer Tools
+Databases & Services: Firebase, MySQL, local storage, API-driven apps
 
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,docker,git,github,figma,vscode,linux" alt="Hardware and development tools" />
-</p>
+Hardware: ESP32, OLED/TFT displays, sensors, DIY smart-device builds
 
-
-
-🚀 Projects I'm Building
-
-<table>
-<tr>
-<td width="50%" valign="top">
+📌 Featured Projects
 
 🌟 Lumen
 
-A premium life-planning app combining:
+A productivity app focused on day planning, budgeting, bucket lists, and analytics with a premium mobile-first experience.
 
-Day planning and task management
-
-Budget and expense tracking
-
-Bucket-list and Dream Jar features
-
-Goals, focus tools, alarms, and notifications
-
-Daily and weekly analytics
-
-Multiple themes and polished animations
-
-Focus: Flutter, Android, local storage, notifications, analytics, premium UI
-
-</td>
-<td width="50%" valign="top">
+Highlights: Task planning, analytics, themes, reminders, smooth UI ideas
 
 🏃 StrideX
 
-A running and walking fitness application with:
+A running and walking fitness app with tracking, analytics, and clean UI.
 
-Outdoor GPS tracking
-
-Indoor step counting
-
-Distance, calories, and activity metrics
-
-Goals and progress analytics
-
-OpenStreetMap-based route visualization
-
-Dark and light UI
-
-Stack: Flutter, Riverpod, GPS, sensors, maps, analytics
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+Highlights: GPS / steps concept, dark-light design, fitness-focused experience
 
 ♟️ Unreal Chess
 
-A multiplayer chess experience with:
+A modern chess project with multiple game modes, variants, multiplayer ideas, and gameplay improvements.
 
-Multiple chess variants
+Highlights: Chess variants, multiplayer ideas, analytics, replay and competition features
 
-Online multiplayer and AI opponents
+🧑‍💼 Recruitment CRM
 
-Friends, scores, replays, and analytics
+A custom CRM with recruiter tracking, analytics, candidate workflows, role-based access, and business logic.
 
-Quick join and private rooms
+Highlights: Recruiter dashboards, state-based access, hiring credits, analytics, workflows
 
-Spectator mode
+🤖 AI Agent / Automation Projects
 
-Firebase-powered game synchronization
+Projects around AI calling, local AI tools, chat workflows, content generation, and automation.
 
-Stack: Android, Firebase Realtime Database, authentication, game logic
-
-</td>
-<td width="50%" valign="top">
-
-🏢 Recruitment CRM
-
-A complete recruitment and operations platform featuring:
-
-Candidates, recruiters, managers, and interviews
-
-Application and placement tracking
-
-Performance analytics and credit systems
-
-Payroll, surveys, permissions, and state-level isolation
-
-AI question answering with RAG
-
-Predictions, anomaly detection, and automation
-
-Focus: Full-stack development, dashboards, AI, ML, reporting, workflow automation
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+Highlights: LLM tools, AI assistants, workflow automation, productivity use cases
 
 ⌚ ESP32 Fitness Watch
 
-A compact custom smartwatch project using:
+A DIY fitness watch / smart wearable project using ESP32, displays, sensors, and custom interfaces.
 
-XIAO ESP32-C3
-
-OLED and round TFT displays
-
-Heart-rate, motion, weather, and air-quality sensors
-
-BLE connectivity
-
-Battery monitoring and low-power behavior
-
-Custom PCB planning in EasyEDA
-
-Stack: C++, ESP32, Arduino, BLE, I²C, embedded UI, PCB design
-
-</td>
-<td width="50%" valign="top">
-
-🤖 Local AI Agent
-
-An AI-powered desktop assistant designed to:
-
-Understand voice and text commands
-
-Manage files and applications
-
-Perform multi-step workflows
-
-Create websites and applications
-
-Connect with coding and automation agents
-
-Execute useful OS-level actions
-
-Stack: Python, LLM APIs, agent workflows, ElevenLabs, automation
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-
-
-</div>
-
-🧠 What I Enjoy Building
-
-Premium Mobile Apps       ███████████████████░  95%
-AI-Powered Products       ██████████████████░░  90%
-Product UI & Animation    ██████████████████░░  90%
-Business Automation       █████████████████░░░  85%
-Full-Stack Platforms      █████████████████░░░  85%
-Embedded / ESP32 Builds   ███████████████░░░░░  75%
+Highlights: Hardware + software mix, display UI, sensors, battery handling, embedded experimentation
 
 📊 GitHub Analytics
 
 <div align="center">
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=respawnrealms-ops&show_icons=true&rank_icon=github&hide_border=true&theme=transparent&include_all_commits=true&count_private=true"
-alt="Mihir Mewada's GitHub statistics"
-/>
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=respawnrealms-ops&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&cache_seconds=1800" alt="Mihir Mewada's GitHub stats" />
 
-<img
-width="49%"
-src="https://streak-stats.demolab.com?user=respawnrealms-ops&hide_border=true&theme=transparent"
-alt="Mihir Mewada's GitHub contribution streak"
-/>
+<br/><br/>
 
-<br/>
+<img width="95%" src="https://streak-stats.demolab.com?user=respawnrealms-ops&theme=tokyonight&hide_border=true" alt="Mihir Mewada's GitHub contribution streak" />
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=respawnrealms-ops&layout=compact&hide_border=true&theme=transparent&langs_count=10"
-alt="Mihir Mewada's most-used programming languages"
-/>
+<br/><br/>
 
-<img
-width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=respawnrealms-ops&theme=transparent"
-alt="Mihir Mewada's GitHub profile summary"
-/>
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=respawnrealms-ops&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&cache_seconds=1800" alt="Mihir Mewada's most used programming languages" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=respawnrealms-ops&bg_color=1a1b27&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="Mihir Mewada's contribution activity graph" />
 
 </div>
 
-Some cards can take a few minutes to refresh after the README is updated. Private repositories are not always included by third-party statistics services.
-
-📈 Contribution Activity
-
-<div align="center">
-
-
-
-</div>
+If one GitHub card does not load immediately, wait a few minutes and refresh the page. These cards are generated by third-party services and sometimes cache slowly.
 
 🏆 GitHub Trophies
 
 <div align="center">
 
-
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=respawnrealms-ops&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="Mihir Mewada's GitHub trophies" />
 
 </div>
 
@@ -278,44 +129,48 @@ Some cards can take a few minutes to refresh after the README is updated. Privat
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/respawnrealms-ops/respawnrealms-ops/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/respawnrealms-ops/respawnrealms-ops/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="Mihir Mewada's contribution snake"
-    src="https://raw.githubusercontent.com/respawnrealms-ops/respawnrealms-ops/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/respawnrealms-ops/respawnrealms-ops/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/respawnrealms-ops/respawnrealms-ops/output/github-contribution-grid-snake.svg">
+  <img width="95%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/respawnrealms-ops/respawnrealms-ops/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
-🎯 Current Mission
+💡 What Makes My GitHub Different
 
-building:
-  - Premium Android and Flutter applications
-  - AI-powered business tools
-  - Recruitment and productivity platforms
-  - Smart embedded devices
+Clean and modern profile README
 
-exploring:
-  - Agentic AI
-  - RAG and intelligent search
-  - Machine learning for real products
-  - Bluetooth Low Energy
-  - Better product design and animation
+GitHub stats, streaks, trophies, and graphs
+
+Strong focus on real projects
+
+Mix of apps + AI + web + embedded
+
+Great base to make the profile look premium and active
+
+🎯 Current Focus
+
+currently_building:
+  - Mobile apps
+  - AI tools
+  - Productivity systems
+  - Automation workflows
+  - Smart hardware prototypes
+
+interested_in:
+  - Flutter apps
+  - Android development
+  - AI agents
+  - Web products
+  - UI/UX improvements
+  - ESP32 builds
 
 goal:
-  - Build products that look premium
-  - Solve useful real-world problems
-  - Publish more high-quality applications
-  - Keep learning by creating
+  - Build cool products
+  - Ship more public repositories
+  - Make GitHub look premium and strong
 
-🤝 Let's Connect
+🤝 Connect
 
 <div align="center">
 
@@ -325,8 +180,8 @@ goal:
 
 <div align="center">
 
-Build it. Improve it. Ship it. 🚀
+Thanks for visiting my profile 🙌
 
-⭐ From Mihir Mewada
+Built with passion by Mihir Mewada
 
 </div>
