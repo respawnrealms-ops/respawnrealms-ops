@@ -1,27 +1,221 @@
-# 💫 About Me:
-i am currently working on a web based crm, and a insane websites
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mhir_.24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:respawnrealms@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![Org Mode](https://img.shields.io/badge/orgmode-%2377AA99.svg?style=for-the-badge&logo=org&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=for-the-badge&logo=Handlebars.js&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Quill](https://img.shields.io/badge/Quill-52B0E7?style=for-the-badge&logo=apache&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![ChipperCI](https://img.shields.io/badge/chipperci-1e394e.svg?style=for-the-badge&logo=chipperci&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=respawnrealms-ops&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=respawnrealms-ops&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=respawnrealms-ops&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Hi, I'm Mihir. 👋
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=respawnrealms-ops&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Senior Software Engineer • Distributed Systems • Cloud • AI/ML
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=4F8CC9&center=true&vCenter=true&width=900&lines=Building+scalable+distributed+systems;Engineering+cloud-native+platforms;Creating+production-ready+GenAI+applications;Java+%7C+Python+%7C+AWS+%7C+Kafka+%7C+Databricks" alt="Typing animation" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=respawnrealms-ops&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=respawnrealms-ops&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
+
+👨‍💻 About Me
+
+I am a Senior Software Engineer with 6+ years of experience designing and delivering scalable distributed systems, cloud-native applications, enterprise platforms, data pipelines, and production-ready AI solutions.
+
+🔭 Building intelligent enterprise applications using LLMs, RAG, LangChain, MLflow, and vector search
+
+☁️ Designing resilient cloud platforms with AWS, Kubernetes, Kafka, DynamoDB, Redis, and microservices
+
+📊 Engineering large-scale data solutions with Databricks, Apache Spark, Delta Lake, and Python
+
+🧠 Interested in Agentic AI, LLMOps, MLOps, developer productivity, and distributed architecture
+
+🏆 Two-time internal hackathon winner for AI-driven engineering and logistics automation
+
+📍 Based in Austin, USA
+
+🤝 Open to collaborating on high-impact backend, cloud, data, and AI projects
+
+🧰 Technology Stack
+
+Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,c,sql" alt="Programming languages" />
+</p>
+
+Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs" alt="Backend technologies" />
+</p>
+
+
+
+Cloud, DevOps & Platform Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,git,github,maven,linux" alt="Cloud and DevOps technologies" />
+</p>
+
+
+
+Data Engineering, AI & Machine Learning
+
+
+
+Databases, Caching & Observability
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,grafana,prometheus" alt="Databases and observability" />
+</p>
+
+
+
+🚀 What I Build
+
+Distributed Systems      ███████████████████░  95%
+Backend Engineering      ███████████████████░  95%
+Cloud Architecture       ██████████████████░░  90%
+Generative AI & RAG      ██████████████████░░  90%
+Data Engineering         █████████████████░░░  85%
+DevOps & Observability   ████████████████░░░░  80%
+Frontend Engineering     ████████████░░░░░░░░  60%
+
+High-throughput Java and Spring Boot microservices
+
+Event-driven applications using Kafka, SQS, SNS, and asynchronous processing
+
+Secure enterprise RAG and semantic-search systems
+
+LLM evaluation, prompt versioning, monitoring, and deployment workflows
+
+Spark and Databricks pipelines processing large enterprise datasets
+
+Self-service automation platforms and internal developer tools
+
+Reliable systems with observability, tracing, alerting, and automated recovery
+
+📌 Featured Projects
+
+🤖 Autonomous Local AI Agent
+
+A local AI assistant that understands voice and text commands and autonomously performs OS-level operations, file management, application workflows, and multi-step tasks.
+
+Technologies: Python, LLMs, Agentic AI, tool calling, workflow orchestration, prompt engineering
+
+
+
+🔎 Enterprise Knowledge Assistant
+
+A secure Retrieval-Augmented Generation platform for searching engineering documentation, runbooks, APIs, and enterprise knowledge using natural-language queries.
+
+Technologies: Python, LangChain, RAG, vector embeddings, MLflow, Databricks, Delta Lake, OpenAI API
+
+
+
+⚡ Distributed Event Processing Platform
+
+A scalable event-driven backend platform designed for high-volume workflows, reliable asynchronous processing, distributed locking, caching, and real-time operational visibility.
+
+Technologies: Java, Spring Boot, Kafka, DynamoDB, Redis, AWS, Docker, Kubernetes
+
+
+
+📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=respawnrealms-ops &show_icons=true&rank_icon=github&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub statistics" />
+<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=respawnrealms-ops &layout=compact&hide_border=true&theme=transparent&langs_count=10" alt="Most used languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=transparent&utcOffset=-5" alt="Productive coding time" />
+
+</div>
+
+GitHub statistics only reflect public repositories unless the selected statistics service can access additional contribution data.
+
+📈 Contribution Activity
+
+<div align="center">
+
+
+
+</div>
+
+🏆 GitHub Trophies
+
+<div align="center">
+
+
+
+</div>
+
+🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+💼 Engineering Highlights
+
+Engineered scalable AI data pipelines processing more than 28 TB of enterprise data
+
+Reduced AI model deployment and validation effort by approximately 46 engineering hours per month
+
+Built backend systems processing more than 2 million business events per month
+
+Reduced incident resolution time by 80% through centralized real-time operational tooling
+
+Saved more than 450 engineering hours annually using AI-powered support automation
+
+Improved service latency from 1,200 ms to 840 ms
+
+Increased automated test coverage to more than 90%
+
+Reduced Mean Time to Detection by 60%
+
+Mentored engineers through design discussions, code reviews, and cloud best practices
+
+🧠 Current Focus
+
+learning:
+  - Advanced distributed systems
+  - Agentic AI architecture
+  - LLM evaluation and observability
+  - Production RAG optimization
+  - Cloud cost and performance engineering
+
+building:
+  - Intelligent developer tools
+  - Reliable AI platforms
+  - Scalable data pipelines
+  - Autonomous workflow agents
+
+open_to:
+  - Senior Software Engineer roles
+  - Staff Software Engineer roles
+  - Backend and Platform Engineering
+  - Cloud and Distributed Systems
+  - AI/ML Platform Engineering
+
+🤝 Connect With Me
+
+<div align="center">
+
+
+
+</div>
+
+<div align="center">
+
+“Build systems that scale. Build intelligence that helps.”
+
+⭐ From Mihir.
+
+</div>
